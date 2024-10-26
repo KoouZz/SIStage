@@ -1,0 +1,10 @@
+D:\123\SIStage\bin\Debug\SIStage.exe.config
+D:\123\SIStage\bin\Debug\SIStage.exe
+D:\123\SIStage\bin\Debug\SIStage.pdb
+D:\123\SIStage\obj\Debug\SIStage.csproj.AssemblyReference.cache
+D:\123\SIStage\obj\Debug\SIStage.Properties.Resources.resources
+D:\123\SIStage\obj\Debug\SIStage.csproj.GenerateResource.cache
+D:\123\SIStage\obj\Debug\SIStage.csproj.CoreCompileInputs.cache
+D:\123\SIStage\obj\Debug\SIStage.exe
+D:\123\SIStage\obj\Debug\SIStage.pdb
+D:\123\SIStage\obj\Debug\SIStage.MainWindow.resources
